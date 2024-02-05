@@ -282,11 +282,11 @@ iframe{
     }
     .invitation-text p{
         font-size: 17px;
-        line-height: 15px;
+        line-height: 17px;
         margin-bottom: 5px;
     }
     .invitation-img img{
-        height:300px;
+        height:500px;
         width:200px;
     }
     iframe{
