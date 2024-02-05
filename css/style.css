@@ -272,8 +272,8 @@ audio{
         top:90%
     }
     .invitation{
-        align-items: end;
         height: 85vh;
+        width:100%;
     }
     .invitation-text h1{
         font-size:26px;
