@@ -110,7 +110,7 @@ section{
 .invitation-img img{
     max-width:1200px;
     height:700px;
-    width:120%;
+    width:100%;
     margin-right: 20px;
     /*border-radius:100%;*/
     align-items: center;
