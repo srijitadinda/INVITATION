@@ -21,7 +21,7 @@ body{
    /* background: linear-gradient(135deg,#FFFFFF,#ABE5EA);*/
    position: relative;
     height:100vh;
-    width:95%;
+    width:100%;
    background-image: url(../img/invitn.png);
    background-size:cover;
     background-position:center;
@@ -207,7 +207,6 @@ iframe{
 }
 @media(max-width: 600px){
     body{
-    background-position:top center;
     color: var(--text-color);
     }
     .location{
