@@ -85,7 +85,7 @@ section{
     }
 .invitation{
     position: relative;
-    height:120vh;
+    height:160vh;
     width:100%;
     background-image:url(../img/invitin.png);
     background-size:cover;
@@ -109,7 +109,7 @@ section{
 }
 .invitation-img img{
     max-width:700px;
-    height:800px;
+    height:900px;
     width:110%;
     margin-right: 20px;
     /*border-radius:100%;*/
@@ -291,7 +291,7 @@ audio{
         margin-bottom: 5px;
     }
     .invitation-img img{
-        height:10000px;
+        height:900px;
         width:400px;
     }
     iframe{
