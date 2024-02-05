@@ -226,12 +226,12 @@ iframe{
     .loc-text h3{
         font-size: 0.9rem;
         line-height: 0.7;
-        margin-left: 16px;
+        margin-left: 26px;
         margin-bottom: 10px;
     }
     .loc-img img{
-        width:200px;
-        height:300px;
+        width:150px;
+        height:400px;
       margin-left: 22px;
       margin-top: 20px;
     }
@@ -271,17 +271,17 @@ iframe{
         height: 90vh;
     }
     .invitation-text h1{
-        font-size:28px;
+        font-size:30px;
         line-height:30px;
         margin-bottom:1px;
     } 
     .invitation-text h3{
-      font-size:22px;
+      font-size:26px;
       line-height: 20px;
       margin-bottom: 5px;
     }
     .invitation-text p{
-        font-size: 17px;
+        font-size: 22px;
         line-height: 17px;
         margin-bottom: 5px;
     }
