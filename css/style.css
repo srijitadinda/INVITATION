@@ -212,7 +212,7 @@ iframe{
     }
     .location{
         align-items:center;
-        height: 85vh;
+        height: 75vh;
     }
     .loc-text h1{
         font-size: 1.3rem;
@@ -299,6 +299,9 @@ audio{
         width:110%;
         height:400px;
         margin-bottom: 30px;
+    }
+    .directions{
+        height:100vh;
     }
     .one
     {
